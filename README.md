@@ -1,12 +1,12 @@
-# Project
+# **Project**
 
 This project show the performance a Machine Learning Model. It includes a test, training and predictions of a Machine Learning Model.
 
-#### Data  
+### **Data**  
 
 Data is generated using python package as shown in src folder. it is found in ./data folder.
 
-#### Analysis and summary Report
+### **Analysis and summary Report**
 
 Exploratory analysis is made to check the data using scatter plot. And the data is split into training and test. And logistic regression is used to train model. 
 
