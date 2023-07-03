@@ -23,4 +23,4 @@ The data and model predictions are shown:
   3. python 3.10.12
   4. jupyterlab
   5. pandas
-  6. matplotlib.pyplot
+  6. matplotlib.pyplot
